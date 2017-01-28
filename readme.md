@@ -1,2 +1,2 @@
-##YO
-#Haha
+##Hello
+#This is a practice repo.
